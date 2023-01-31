@@ -11,8 +11,8 @@ buildExpired: false
 googleAnalytics: UA-41805436-4
 
 minify:
-  disableXML: true
-  minifyOutput: true
+  disableXML: false
+  minifyOutput: false
 
 outputs:
     home:
