@@ -26,7 +26,7 @@ params:
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["https://raw.githubusercontent.com/ahmgeek/_ahmgeek.github.io/default/images/ahmad/Screenshot%202020-05-14%20at%2010.15.44.png"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
