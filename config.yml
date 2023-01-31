@@ -22,7 +22,7 @@ outputs:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Ahmad's Log
-  description: "ExampleSite description"
+  description: "Ahmad Tolba, SRE, working at gitlab by day, helping machines dominate the world by night."
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
